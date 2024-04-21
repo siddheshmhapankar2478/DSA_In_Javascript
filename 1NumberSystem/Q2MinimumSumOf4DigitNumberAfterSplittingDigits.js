@@ -10,3 +10,5 @@ var minimumSum = function (num) {
   const num2 = arr[1] * 10 + arr[3];
   return num1 + num2;
 };
+console.log("Answer =", minimumSum(2548));
+

@@ -9,3 +9,4 @@ var subtractProductAndSum = function (n) {
   }
   return product - sum;
 };
+console.log("Answer =", subtractProductAndSum(2548));

@@ -9,3 +9,5 @@ var isPalindrome = function (x) {
   }
   return reverse === x;
 };
+
+console.log("Answer =", isPalindrome(121));
